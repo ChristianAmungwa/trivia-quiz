@@ -1,0 +1,72 @@
+/* General Layout */
+.App {
+  background-color: #f0f4f8;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  height: 100vh;
+  padding-top: 20px;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+/* Heading Styles */
+h1 {
+  font-size: 2.5rem;
+  color: #4a90e2;
+  margin-bottom: 20px;
+}
+
+h2, h3 {
+  margin-bottom: 15px;
+  color: #333;
+}
+
+/* Button Styles */
+button {
+  margin: 10px;
+  padding: 12px 24px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #f5f5f5;
+}
+
+.large-button {
+  background-color: #4a90e2;
+  color: white;
+  font-size: 1.2rem;
+  margin: 20px;
+  padding: 15px 30px;
+}
+
+.large-button:hover {
+  background-color: #357abD;
+}
+
+/* Feedback Messages */
+.correct {
+  color: #27ae60;
+}
+
+.wrong {
+  color: #e74c3c;
+}
+
+/* Time Counter */
+h2 {
+  font-size: 1.5rem;
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  width: fit-content;
+  margin: auto;
+  margin-bottom: 15px;
+}

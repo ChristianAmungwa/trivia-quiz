@@ -1,0 +1,153 @@
+[
+    {
+      "question": "Who sang the title song for the latest Bond film, No Time to Die?",
+      "options": ["Adele", "Sam Smith", "Billie Eilish"],
+      "correctAnswer": "Billie Eilish"
+    },
+    {
+      "question": "Which flies a green, white, and orange (in that order) tricolor flag?",
+      "options": ["Ireland", "Ivory Coast", "Italy"],
+      "correctAnswer": "Ireland"
+    },
+    {
+      "question": "What company makes the Xperia model of smartphone?",
+      "options": ["Samsung", "Sony", "Nokia"],
+      "correctAnswer": "Sony"
+    },
+    {
+      "question": "Which city is home to the Brandenburg Gate?",
+      "options": ["Vienna", "Zurich", "Berlin"],
+      "correctAnswer": "Berlin"
+    },
+    {
+      "question": "Which of the following is NOT a fruit?",
+      "options": ["Rhubarb", "Tomatoes", "Avocados"],
+      "correctAnswer": "Rhubarb"
+    },
+    {
+      "question": "Where was the first example of paper money used?",
+      "options": ["China", "Turkey", "Greece"],
+      "correctAnswer": "China"
+    },
+    {
+      "question": "Who is generally considered the inventor of the motor car?",
+      "options": ["Henry Ford", "Karl Benz", "Henry M. Leland"],
+      "correctAnswer": "Karl Benz"
+    },
+    {
+      "question": "If you were looking at Iguazu Falls, on what continent would you be?",
+      "options": ["Asia", "Africa", "South America"],
+      "correctAnswer": "South America"
+    },
+    {
+      "question": "What number was the Apollo mission that successfully put a man on the moon for the first time in human history?",
+      "options": ["Apollo 11", "Apollo 12", "Apollo 13"],
+      "correctAnswer": "Apollo 11"
+    },
+    {
+      "question": "Which of the following languages has the longest alphabet?",
+      "options": ["Greek", "Russian", "Arabic"],
+      "correctAnswer": "Russian"
+    },
+    {
+      "question": "Who was the lead singer of the band The Who?",
+      "options": ["Roger Daltrey", "Don Henley", "Robert Plant"],
+      "correctAnswer": "Roger Daltrey"
+    },
+    {
+      "question": "What spirit is used in making a Tom Collins?",
+      "options": ["Vodka", "Rum", "Gin"],
+      "correctAnswer": "Gin"
+    },
+    {
+      "question": "The fear of insects is known as what?",
+      "options": ["Entomophobia", "Arachnophobia", "Ailurophobia"],
+      "correctAnswer": "Entomophobia"
+    },
+    {
+      "question": "What was the name of the Franco-British supersonic commercial plane that operated from 1976-2003?",
+      "options": ["Accord", "Concorde", "Mirage"],
+      "correctAnswer": "Concorde"
+    },
+    {
+      "question": "Which horoscope sign is a fish?",
+      "options": ["Aquarius", "Cancer", "Pisces"],
+      "correctAnswer": "Pisces"
+    },
+    {
+      "question": "What is the largest US state (by landmass)?",
+      "options": ["Texas", "Alaska", "California"],
+      "correctAnswer": "Alaska"
+    },
+    {
+      "question": "Which app has the most total users?",
+      "options": ["TikTok", "Snapchat", "Instagram"],
+      "correctAnswer": "Instagram"
+    },
+    {
+      "question": "Which Game of Thrones character is known as the Young Wolf?",
+      "options": ["Robb Stark", "Arya Stark", "Sansa Stark"],
+      "correctAnswer": "Robb Stark"
+    },
+    {
+      "question": "What city hosted the 2002 Olympic Games?",
+      "options": ["Tokyo", "Beijing", "Sydney"],
+      "correctAnswer": "Sydney"
+    },
+    {
+      "question": "How many plays do people (generally) believe that Shakespeare wrote?",
+      "options": ["27", "37", "47"],
+      "correctAnswer": "37"
+    },
+    {
+      "question": "Which of the following was considered one of the Seven Ancient Wonders?",
+      "options": ["Colosseum", "Great Wall of China", "Colossus of Rhodes"],
+      "correctAnswer": "Colossus of Rhodes"
+    },
+    {
+      "question": "Who directed the Academy Award-winning movie, Gladiator?",
+      "options": ["Ridley Scott", "James Cameron", "Steven Soderbergh"],
+      "correctAnswer": "Ridley Scott"
+    },
+    {
+      "question": "How long did dinosaurs live on the earth?",
+      "options": ["100-150 million years", "150-200 million years", "200+ million years"],
+      "correctAnswer": "150-200 million years"
+    },
+    {
+      "question": "What Italian city is famous for its system of canals?",
+      "options": ["Rome", "Naples", "Venice"],
+      "correctAnswer": "Venice"
+    },
+    {
+      "question": "What is the strongest muscle in the human body?",
+      "options": ["Jaw", "Heart", "Glutes"],
+      "correctAnswer": "Jaw"
+    },
+    {
+      "question": "What is the longest-running Broadway show ever?",
+      "options": ["Les Miserable", "The Lion King", "The Phantom of the Opera"],
+      "correctAnswer": "The Phantom of the Opera"
+    },
+    {
+      "question": "Where was tea invented?",
+      "options": ["England", "USA", "China"],
+      "correctAnswer": "China"
+    },
+    {
+      "question": "Where was the earliest documented case of the Spanish flu?",
+      "options": ["USA", "Spain", "Mexico"],
+      "correctAnswer": "USA"
+    },
+    {
+      "question": "Which of the following languages is NOT driven from Latin?",
+      "options": ["French", "Portuguese", "English"],
+      "correctAnswer": "English"
+    },
+    {
+      "question": "Arnold Schwarzenegger was married to a member of what famous US political family?",
+      "options": ["The Kennedys", "The Bushes", "The Rockefellers"],
+      "correctAnswer": "The Kennedys"
+    }
+  ]
+  
